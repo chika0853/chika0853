@@ -1,24 +1,24 @@
 <!-- ═══════════════════════════════════════════════════════════════
      DIVAAN KRISHNAN · GitHub Profile README
-     Replace every `divaankrishnan` with your real GitHub username.
+     Replace every `chika0853` with your real GitHub username.
      ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:8b5cf6,100:c4b5fd&height=200&section=header&text=Divaan%20Krishnan&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20UI%20Craftsman&descAlignY=56&descSize=18&animation=fadeIn" width="100%" />
 
-<a href="https://divaankrishnan.netlify.app">
+<a href="https://chika0853.netlify.app">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+for+the+web+from+Puchong%2C+MY;Vanilla+JS+%C2%B7+React+%C2%B7+Node+%C2%B7+Supabase;Clean+UI.+Fast+builds.+Real+products." alt="Typing SVG" />
 </a>
 
 <br/>
 
-<a href="https://divaankrishnan.netlify.app"><img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+<a href="https://chika0853.netlify.app"><img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=netlify&logoColor=white" /></a>
 <a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.credly.com/users/YOUR-HANDLE"><img src="https://img.shields.io/badge/IBM_Credentials-052FAD?style=for-the-badge&logo=ibm&logoColor=white" /></a>
 <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=divaankrishnan&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=chika0853&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -45,7 +45,7 @@ const divaan = {
 - 🟣 Currently architecting **Qymon** — a production web platform with live Supabase data, PWA install flow, and scroll-driven 3D product visuals
 - 🎨 I care about the details most people scroll past — easing curves, reveal timing, hover weight
 - 🧪 Hand-crafting SVG and single-file apps because constraints make better engineers
-- 📫 Reach me at **[divaankrishnan.netlify.app](https://divaankrishnan.netlify.app)**
+- 📫 Reach me at **[chika0853.netlify.app](https://chika0853.netlify.app)**
 
 <br clear="right"/>
 
@@ -73,8 +73,9 @@ const divaan = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=chika0853&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chika0853&layout=compact&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&langs_count=8" />
+<img height="165" src="./profile/stats.svg" />
+<img height="165" src="./profile/top-langs.svg" />
+
 <br/>
 
 <img height="165" src="https://streak-stats.demolab.com?user=chika0853&hide_border=true&background=0d1117&stroke=8b5cf6&ring=8b5cf6&fire=c4b5fd&currStreakLabel=8b5cf6&sideLabels=c9d1d9&dates=8b949e" />
@@ -90,6 +91,7 @@ const divaan = {
 </div>
 
 <br/>
+
 <!-- ─────────────────────────── PROJECTS ─────────────────────────── -->
 
 ## 🚀 Featured Work
@@ -110,7 +112,7 @@ Production web platform for a household essentials brand. Live Supabase product 
 ### 🎯 Portfolio
 A personal site built on the bones of IBM's Carbon design language. Type-driven, grid-strict, credential-backed.
 
-[**Live →**](https://divaankrishnan.netlify.app)
+[**Live →**](https://chika0853.netlify.app)
 
 `Carbon` `HTML/CSS/JS`
 
@@ -125,7 +127,7 @@ A personal site built on the bones of IBM's Carbon design language. Type-driven,
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/chika0853/chika0853/output/snake.svg" alt="Contribution snake" />
+<img src="https://raw.githubusercontent.com/chika0853/chika0853/output/snake.svg?v=2" alt="Contribution snake" />
 
 <br/><br/>
 
