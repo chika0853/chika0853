@@ -73,7 +73,7 @@ const divaan = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=chika0853&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-profile-trophy.vercel.app.app/api?username=chika0853&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9&include_all_commits=true&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chika0853&layout=compact&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&langs_count=8" />
 
 <br/>
