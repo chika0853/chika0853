@@ -1,16 +1,138 @@
-## Hi there 👋
+<!-- ═══════════════════════════════════════════════════════════════
+     DIVAAN KRISHNAN · GitHub Profile README
+     Replace every `divaankrishnan` with your real GitHub username.
+     ═══════════════════════════════════════════════════════════════ -->
 
-<!--
-**chika0853/chika0853** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:8b5cf6,100:c4b5fd&height=200&section=header&text=Divaan%20Krishnan&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20UI%20Craftsman&descAlignY=56&descSize=18&animation=fadeIn" width="100%" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://divaankrishnan.netlify.app">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+for+the+web+from+Puchong%2C+MY;Vanilla+JS+%C2%B7+React+%C2%B7+Node+%C2%B7+Supabase;Clean+UI.+Fast+builds.+Real+products." alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://divaankrishnan.netlify.app"><img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+<a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.credly.com/users/YOUR-HANDLE"><img src="https://img.shields.io/badge/IBM_Credentials-052FAD?style=for-the-badge&logo=ibm&logoColor=white" /></a>
+<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=divaankrishnan&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS" />
+
+</div>
+
+<br/>
+
+<!-- ─────────────────────────── ABOUT ─────────────────────────── -->
+
+<img align="right" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Developer.gif" width="380" />
+
+### `~/ whoami`
+
+```ts
+const divaan = {
+  role      : "Full-Stack Developer",
+  location  : "Puchong, Malaysia 🇲🇾",
+  focus     : ["Premium UI/UX", "Animation-first web", "Shipping real products"],
+  building  : "Qymon — household essentials, engineered on the web",
+  stack     : ["Vanilla JS", "React", "Node.js", "Supabase", "SVG", "PWA"],
+  certified : "IBM",
+  philosophy: "If it doesn't feel good to use, it isn't finished.",
+};
+```
+
+- 🟣 Currently architecting **Qymon** — a production web platform with live Supabase data, PWA install flow, and scroll-driven 3D product visuals
+- 🎨 I care about the details most people scroll past — easing curves, reveal timing, hover weight
+- 🧪 Hand-crafting SVG and single-file apps because constraints make better engineers
+- 📫 Reach me at **[divaankrishnan.netlify.app](https://divaankrishnan.netlify.app)**
+
+<br clear="right"/>
+
+<!-- ─────────────────────────── STACK ─────────────────────────── -->
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+**Core**
+
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs&theme=dark" />
+
+**Backend · Data · Tools**
+
+<img src="https://skillicons.dev/icons?i=supabase,postgres,git,github,vscode,netlify,figma,tailwind&theme=dark" />
+
+</div>
+
+<br/>
+
+<!-- ─────────────────────────── STATS ─────────────────────────── -->
+
+## 📊 The Numbers
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=divaankrishnan&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divaankrishnan&layout=compact&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&langs_count=8" />
+
+<br/>
+
+<img height="165" src="https://streak-stats.demolab.com?user=divaankrishnan&hide_border=true&background=0d1117&stroke=8b5cf6&ring=8b5cf6&fire=c4b5fd&currStreakLabel=8b5cf6&sideLabels=c9d1d9&dates=8b949e" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=divaankrishnan&bg_color=0d1117&color=8b5cf6&line=c4b5fd&point=ffffff&area=true&hide_border=true" width="98%" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=divaankrishnan&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8" />
+
+</div>
+
+<br/>
+
+<!-- ─────────────────────────── PROJECTS ─────────────────────────── -->
+
+## 🚀 Featured Work
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🟣 Qymon
+Production web platform for a household essentials brand. Live Supabase product catalogue, inquiry pipeline, PWA install, and scroll-choreographed 3D product reveals — all shipped in a single hand-written file.
+
+`Vanilla JS` `Supabase` `PWA`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Portfolio
+A personal site built on the bones of IBM's Carbon design language. Type-driven, grid-strict, credential-backed.
+
+[**Live →**](https://divaankrishnan.netlify.app)
+
+`Carbon` `HTML/CSS/JS`
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+<!-- ─────────────────────────── SNAKE ─────────────────────────── -->
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/divaankrishnan/divaankrishnan/output/snake.svg" alt="Contribution snake" />
+
+<br/><br/>
+
+> *"Simplicity is the ultimate sophistication."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c4b5fd,50:8b5cf6,100:6d28d9&height=120&section=footer" width="100%" />
+
+</div>
