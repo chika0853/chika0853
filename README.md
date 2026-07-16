@@ -45,7 +45,7 @@ const divaan = {
 - 🟣 Currently architecting **Qymon** — a production web platform with live Supabase data, PWA install flow, and scroll-driven 3D product visuals
 - 🎨 I care about the details most people scroll past — easing curves, reveal timing, hover weight
 - 🧪 Hand-crafting SVG and single-file apps because constraints make better engineers
-- 📫 Reach me at **[chika0853.netlify.app](https://chika0853.netlify.app)**
+- 📫 Reach me at **[divaankrishnan.netlify.app](https://divaankrishnan.netlify.app)**
 
 <br clear="right"/>
 
