@@ -127,7 +127,7 @@ A personal site built on the bones of IBM's Carbon design language. Type-driven,
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/divaankrishnan/divaankrishnan/output/snake.svg" alt="Contribution snake" />
+<img src="https://raw.githubusercontent.com/chika0853/chika0853/output/snake.svg" alt="Contribution snake" />
 
 <br/><br/>
 
