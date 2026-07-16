@@ -13,7 +13,7 @@
 
 <br/>
 
-<a href="https://chika0853.netlify.app"><img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+<a href="https://divaankrishnan.netlify.app"><img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=netlify&logoColor=white" /></a>
 <a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.credly.com/users/YOUR-HANDLE"><img src="https://img.shields.io/badge/IBM_Credentials-052FAD?style=for-the-badge&logo=ibm&logoColor=white" /></a>
 <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
