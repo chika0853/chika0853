@@ -73,25 +73,24 @@ const divaan = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=divaankrishnan&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divaankrishnan&layout=compact&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=chika0853&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chika0853&layout=compact&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&langs_count=8" />
 
 <br/>
 
-<img height="165" src="https://streak-stats.demolab.com?user=divaankrishnan&hide_border=true&background=0d1117&stroke=8b5cf6&ring=8b5cf6&fire=c4b5fd&currStreakLabel=8b5cf6&sideLabels=c9d1d9&dates=8b949e" />
+<img height="165" src="https://streak-stats.demolab.com?user=chika0853&hide_border=true&background=0d1117&stroke=8b5cf6&ring=8b5cf6&fire=c4b5fd&currStreakLabel=8b5cf6&sideLabels=c9d1d9&dates=8b949e" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=divaankrishnan&bg_color=0d1117&color=8b5cf6&line=c4b5fd&point=ffffff&area=true&hide_border=true" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chika0853&bg_color=0d1117&color=8b5cf6&line=c4b5fd&point=ffffff&area=true&hide_border=true" width="98%" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=divaankrishnan&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=chika0853&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8" />
 
 </div>
 
 <br/>
-
 <!-- ─────────────────────────── PROJECTS ─────────────────────────── -->
 
 ## 🚀 Featured Work
